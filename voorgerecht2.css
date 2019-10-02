@@ -1,0 +1,57 @@
+.menu{
+  margin: 10px;
+  padding: 0;
+  overflow: hidden;
+  background-color: #333;
+}
+
+.menu li {
+  float: left;
+  list-style-type: none;
+  width: 33.3%;
+
+}
+
+.menu li a {
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 15px 100px;
+  text-decoration: none;
+  list-style-type: none;
+  text-align: center;
+}
+
+.menu li a:hover {
+  background-color: #111;
+}
+
+body{
+  
+  font-family: roboto;}
+  
+div.h1{
+  font-size: 36px;
+  border-bottom: 1px solid black;
+    line-height: 36px}
+
+div.p1{
+  font-size: 24px;
+     line-height: 32px}
+
+div.h2{
+  font-size: 32px;
+     line-height: 32px}
+
+
+div.ul1{
+  font-size: 20px ;
+    line-height: 26px; }
+
+div.ol1{
+  font-size: 20px;
+  line-height: 26px;}
+
+.website {
+  width: 900px;
+  margin: 0 auto;}
